@@ -1,0 +1,18 @@
+In Lecture 3, we covered the concepts of variables, constants, and data types. 
+
+### Data Types
+We discussed various types of data types, which include:
+
+- **Integer (int):** Used for whole numbers.
+- **Floating Point (float):** Used for numbers with decimal points.
+- **Character (char):** Used for single characters.
+- **String (str):** Used for sequences of characters or text.
+- **Boolean (bool):** Used for true/false values.
+
+### Variables
+Variables are essentially storage locations that hold data which can be changed during program execution. They are used to store values that can be manipulated by the program. 
+
+### Constants
+Constants, on the other hand, are similar to variables but their values cannot be changed once they are defined. They are used to store fixed values that should not be altered during the execution of the program.
+
+In summary, Lecture 3 introduced us to the various data types, and explained the roles and uses of variables and constants in programming.
