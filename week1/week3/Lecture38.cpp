@@ -3,7 +3,6 @@
 using namespace std;
 
 int main(){
-    
     int a[10];
     int i;
     for(i=0;i<10;i++) cin>>a[i];
@@ -21,7 +20,7 @@ int main(){
         if(a[j]<a[least_index]) least_index =j; //If we find an index in j=(0,9) at a[j] is less than the least index which we assumed, then this j will be  least index
     }
     int temp;
-    
+
     //interchange the first element with last element
     temp =a[i];
     a[i] = a[least_index];
